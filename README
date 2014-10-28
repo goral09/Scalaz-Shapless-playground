@@ -1,0 +1,3 @@
+# Scala sbt-revolver
+
+A plain, simple Scala project with Shapeless 2.0 and Scalaz 7.1.0. Scala version 2.11.2, sbt version 0.13.2.
