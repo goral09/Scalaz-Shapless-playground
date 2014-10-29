@@ -9,6 +9,6 @@ libraryDependencies ++= Seq(
   "com.chuusai" %% "shapeless" % "2.0.0"
 )
  
-initialCommands in console := "import scalaz._, Scalaz._"
+initialCommands in console := "import scalaz._, Scalaz._, shapeless._"
 
 incOptions := incOptions.value.withNameHashing(false)
